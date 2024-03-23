@@ -1,0 +1,4 @@
+.intro .video, .intro .audio{
+    width: 100%;
+    max-width: 500px;
+}
